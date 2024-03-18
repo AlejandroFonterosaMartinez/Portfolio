@@ -1,0 +1,65 @@
+[
+   {
+    "name": "T@LK",
+    "desc": "Foro hecho con react en el que se interactua con otros usuarios.",
+    "image": "talk",
+    "category": "react, firebase,bootstrap",
+    "links": {
+      "view": "https://talk-jet.vercel.app/"
+    }
+  },
+  {
+    "name": "Proyecto Fin De Ciclo",
+    "desc": "Proyecto de fin de ciclo, web completa para la venta de materiales de construcción.",
+    "image": "proyectofinal",
+    "category": "php, javascript",
+    "links": {
+      "view": "https://bricoteis.000webhostapp.com/"
+    }
+  },
+    {
+    "name": "SneakerZ",
+    "desc": "Tienda hecha con VueJS y Firebase",
+    "image": "TiendaVue",
+    "category": "vuejs, firebase",
+    "links": {
+      "view": "https://sneakerz-five.vercel.app/Home"
+    }
+  },
+  {
+    "name": "FileFlow",
+    "desc": "App para gestión de archivos",
+    "image": "FileFlow",
+    "category": "vue,firebase",
+    "links": {
+      "view": "https://file-flow-umber.vercel.app/login"
+    }
+  },
+    {
+    "name": "Gestor de gastos/ingresos",
+    "desc": "Aplicación para gestionar los gastos e ingresos de un mes",
+    "image": "ggi",
+    "category": "vue,firebase",
+    "links": {
+      "view": "https://gestor-gastos-ingresos-taupe.vercel.app/"
+    }
+  },
+  {
+    "name": "Gestor de citas",
+    "desc": "Aplicación para gestionar citas de una peluquería.",
+    "image": "pwa-completa",
+    "category": "vue",
+    "links": {
+      "view": "https://gestor-citas-previas.vercel.app/"
+    }
+  },
+  {
+    "name": "Mas Proyectos",
+    "desc": "Puedes ver el resto de mis proyectos. Entre ellos, encontrarás proyectos de Python, Vue, PHP y R entre otros.",
+    "image": "githubrepositorios",
+    "category": "vue,python,php,javascript",
+    "links": {
+      "view": "https://github.com/AlejandroFonterosaMartinez?tab=repositories"
+    }
+  }
+]
